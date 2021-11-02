@@ -1,0 +1,1 @@
+web: voila BeautyOfCharm.ipynb --no-browser --theme=dark --port=$PORT

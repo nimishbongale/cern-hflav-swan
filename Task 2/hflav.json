@@ -1,0 +1,403 @@
+[
+    {
+        "name": "BR_Lambdab0_K-_D0_p.-BR_Lambdab0_pi-_D0_p",
+        "latex": "\\frac{{\\cal{B}} ( \\Lambda_b^{0} \\to D^{0} p K^{-} ) }{ {\\cal{B}} ( \\Lambda_b^{0} \\to D^{0} p \\pi^{-} )}",
+        "category": "Bbaryon/D",
+        "average": 0.07840881240362992,
+        "error": 0.008607155901120699,
+        "measurements": [
+            {
+                "value": 0.073,
+                "error": 0.011169491020860955
+            },
+            {
+                "value": 0.112,
+                "error": 0.025998451891820918
+            }
+        ]
+    },
+    {
+        "name": "BR_Lambdab0_psi2S_Lambda0.-BR_Lambdab0_Jpsi_Lambda0",
+        "latex": "\\frac{{\\cal{B}} ( \\Lambda_b^{0} \\to \\psi(2S) \\Lambda )}{{\\cal{B}} ( \\Lambda_b^{0} \\to J/\\psi \\Lambda )}",
+        "category": "Bbaryon/cc",
+        "average": 0.611687170296534,
+        "error": 0.037933438132664914,
+        "measurements": [
+            {
+                "value": 5.13,
+                "error": 0.34088121098118623
+            },
+            {
+                "value": 0.501,
+                "error": 0.04255584566190643
+            }
+        ]
+    },
+    {
+        "name": "alphab_Lambdab0_Jpsi_Lambda0",
+        "latex": "\\alpha_b ( \\Lambda_b^{0} \\to J/\\psi \\Lambda )",
+        "category": "Bbaryon/cc",
+        "average": 0.08330875166314161,
+        "error": 0.1209779752585205,
+        "measurements": [
+            {
+                "value": 0.5,
+                "error": 1.9672315572906003
+            },
+            {
+                "value": -0.14,
+                "error": 0.198997487421324
+            },
+            {
+                "value": 0.3,
+                "error": 0.18110770276274835
+            }
+        ]
+    },
+    {
+        "name": "BR_Lambdab0_SigmacS02520_p_p-.BR_SigmacS02520_Lambdac+_pi-.-BR_Lambdab0_Lambdac+_p_p-_pi-",
+        "latex": "\\frac { {\\cal{B}} ( \\Lambda_b^{0} \\to \\Sigma_c(2520)^{*0} p \\bar{p} ) \\times {\\cal{B}} ( \\Sigma_c(2520)^{*0} \\to \\Lambda_c^{+} \\pi^{-} )  }{ {\\cal{B}} ( \\Lambda_b^{0} \\to \\Lambda_c^{+} p \\bar{p} \\pi^{-} ) }",
+        "category": "Bbaryon/baryon",
+        "average": 1.19,
+        "error": 0.2441311123222267,
+        "measurements": [
+            {
+                "value": 1.19,
+                "error": 0.2814249455894058
+            }
+        ]
+    },
+    {
+        "name": "BR_Lambdab0_pi-_Pc4450+.-BR_Lambdab0_K-_Pc4450+",
+        "latex": "\\frac{ {\\cal{B}} ( \\Lambda_b^0 \\to \\pi^- P_c(4450)^+ ) }{ {\\cal{B}} ( \\Lambda_b^0 \\to K^- P_c(4450)^+ ) }",
+        "category": "Bbaryon/other",
+        "average": 0.2728872562336826,
+        "error": 0.15338755357394823,
+        "measurements": [
+            {
+                "value": 0.33,
+                "error": 0.22951374249436746
+            }
+        ]
+    },
+    {
+        "name": "Deltaperp_B_KS_Jpsi",
+        "latex": "\\delta_{\\perp} ( B \\to J/\\psi K^{*} )",
+        "category": "B/cc",
+        "average": 2.934782335129184,
+        "error": 0.023686045405516158,
+        "measurements": [
+            {
+                "value": 2.94,
+                "error": 0.034641016151377546
+            },
+            {
+                "value": 2.938,
+                "error": 0.06554387843269577
+            },
+            {
+                "value": 2.91,
+                "error": 0.06557438524302
+            }
+        ]
+    },
+    {
+        "name": "BR_B_D0bar_K_pi0_D0",
+        "latex": "{\\cal{B}} ( B \\to D^{0} \\bar{D}^{0} \\pi^{0} K )",
+        "category": "B/DD",
+        "average": 0.00127,
+        "error": 0.00043913663366419806,
+        "measurements": [
+            {
+                "value": 0.00127,
+                "error": 0.0005359482417626411
+            }
+        ]
+    },
+    {
+        "name": "BR_B_X3872_K.BR_X3872_D0bar_DS0",
+        "latex": "{{\\cal{B}} ( B \\to X(3872) K )\\times {\\cal{B}} ( X(3872) \\to D^{*}(2007)^{0} \\bar{D}^{0} )}",
+        "category": "B/other",
+        "average": 0.0008,
+        "error": 0.00022360679774997892,
+        "measurements": [
+            {
+                "value": 0.0008,
+                "error": 0.00024494897427831784
+            }
+        ]
+    },
+    {
+        "name": "BR_B0bar_pi0_DS0",
+        "latex": "{\\cal{B}} ( \\bar{B}^{0} \\to D^{*}(2007)^{0} \\pi^{0} )",
+        "category": "Bd/D",
+        "average": 0.002228383838384649,
+        "error": 0.00022247460415730484,
+        "measurements": [
+            {
+                "value": 0.00139,
+                "error": 0.0004093897898091744
+            },
+            {
+                "value": 0.0030499999999999998,
+                "error": 0.00042
+            }
+        ]
+    },
+    {
+        "name": "BR_B0bar_Ds-_DS+",
+        "latex": "{\\cal{B}} ( \\bar{B}^{0} \\to D_s^{-} D^{*}(2010)^{+} )",
+        "category": "Bd/DD",
+        "average": 0.06824963715529844,
+        "error": 0.015955694280043998,
+        "measurements": [
+            {
+                "value": 0.056999999999999995,
+                "error": 0.020445048300260872
+            },
+            {
+                "value": 0.10300000000000001,
+                "error": 0.04342810150121693
+            }
+        ]
+    },
+    {
+        "name": "BR_B0bar_KS0892bar_chi1c",
+        "latex": "{\\cal{B}} ( \\bar{B}^{0} \\to \\chi_{c1} \\bar{K}^{*}(892)^{0} )",
+        "category": "Bd/cc",
+        "average": 0.0026637864885704736,
+        "error": 0.00024722731410131986,
+        "measurements": [
+            {
+                "value": 0.0031000000000000003,
+                "error": 0.00103440804327886
+            },
+            {
+                "value": 0.0025,
+                "error": 0.00034641016151377546
+            },
+            {
+                "value": 0.00327,
+                "error": 0.00093552124508212
+            }
+        ]
+    },
+    {
+        "name": "BR_B0bar_pbar_pi-_SigmaSc++",
+        "latex": "{\\cal{B}} ( \\bar{B}^{0} \\to \\Sigma_c^{*++} \\bar{p} \\pi^{-} )",
+        "category": "Bd/baryon",
+        "average": 0.0012162551334494766,
+        "error": 0.00023028382770126217,
+        "measurements": [
+            {
+                "value": 0.0012,
+                "error": 0.0005196152422706631
+            },
+            {
+                "value": 0.00163,
+                "error": 0.0008954175982749683
+            },
+            {
+                "value": 0.00115,
+                "error": 0.00044158804331639233
+            }
+        ]
+    },
+    {
+        "name": "BR_Bc-_D0bar_K-",
+        "latex": "\\frac{ f_c \\times {\\cal B} ( B_c^{-} \\to  \\bar{D}^{0} K^{-} ) }{ f_u }",
+        "category": "Bc/D",
+        "average": 9.3e-06,
+        "error": 2.7173759187798002e-06,
+        "measurements": [
+            {
+                "value": 9.3e-06,
+                "error": 2.7829117620771877e-06
+            }
+        ]
+    },
+    {
+        "name": "fc.BR_Bc-_DsS-_DS0.-fu.BR_B-_Ds-_D0",
+        "latex": "\\frac{ f_c \\times  {\\cal{B}} ( B_c^- \\to D_s^{*-} D^{*0} ) } { f_u \\times {\\cal{B}} ( B^- \\to D_s^- D^0 ) }",
+        "category": "Bc/DD",
+        "average": 0.032,
+        "error": 0.042999999999995,
+        "measurements": [
+            {
+                "value": 0.032,
+                "error": 0.043
+            }
+        ]
+    },
+    {
+        "name": "BR_Bc-_pi+_pi-_pi-_Jpsi.-BR_Bc-_pi-_Jpsi",
+        "latex": "\\frac{{\\cal{B}} ( B_c^{-} \\to J/\\psi \\pi^{+} \\pi^{-} \\pi^{-} )} {{\\cal{B}} ( B_c^{-} \\to J/\\psi \\pi^{-} )}",
+        "category": "Bc/cc",
+        "average": 2.4414396886418275,
+        "error": 0.3973662279511226,
+        "measurements": [
+            {
+                "value": 2.41,
+                "error": 0.5547972602672079
+            },
+            {
+                "value": 2.55,
+                "error": 0.9270382947861432
+            }
+        ]
+    },
+    {
+        "name": "BR_Bc+_Bs_pi+",
+        "latex": "\\frac{f_c}{f_s}  \\times {\\cal B} ( B_c^{+} \\to  B_s^{0}\\pi^{+} )",
+        "category": "Bc/B",
+        "average": 0.023700000000000002,
+        "error": 0.0036169794090880054,
+        "measurements": [
+            {
+                "value": 0.023700000000000002,
+                "error": 0.004072873427239972
+            }
+        ]
+    },
+    {
+        "name": "BR_Bsbar_K0_D0",
+        "latex": "{\\cal{B}} ( \\bar{B}_s^{0} \\to D^{0} K^{0} )",
+        "category": "Bs/D",
+        "average": 0.0042959402696898545,
+        "error": 0.0005825636056098478,
+        "measurements": [
+            {
+                "value": 0.0043,
+                "error": 0.0007681145747868608
+            }
+        ]
+    },
+    {
+        "name": "BR_Bsbar_D0_D0bar.-BR_Bu_D0_Ds-",
+        "latex": "\\frac{{\\cal{B}} ( \\bar{B}^{0}_s \\to \\bar{D}^{0} D^{0} )}{{\\cal{B}} ( B^{-} \\to D^{0} D_s^{-} )}",
+        "category": "Bs/DD",
+        "average": 0.019,
+        "error": 0.004242640687119286,
+        "measurements": [
+            {
+                "value": 0.019,
+                "error": 0.005196152422706632
+            }
+        ]
+    },
+    {
+        "name": "fpara_Bsbar_KS_Jpsi",
+        "latex": "f_{\\parallel} ( \\bar{B}^{0}_s \\to J/\\psi K^{*0} )",
+        "category": "Bs/cc",
+        "average": 0.179,
+        "error": 0.029966648127542583,
+        "measurements": [
+            {
+                "value": 0.179,
+                "error": 0.03266496594212215
+            }
+        ]
+    },
+    {
+        "name": "BR_Bsbar_Lambda0bar_pi-_Lambdac+",
+        "latex": "{\\cal{B}} ( \\bar{B}_s^{0} \\to \\Lambda_c^{+} \\bar{\\Lambda} \\pi^{-} )",
+        "category": "Bs/baryon",
+        "average": 0.003988577805258464,
+        "error": 0.0011998646846839952,
+        "measurements": [
+            {
+                "value": 0.0036000000000000003,
+                "error": 0.0017798819581896067
+            },
+            {
+                "value": 0.0048,
+                "error": 0.002638181191654584
+            }
+        ]
+    },
+    {
+        "name": "BR_B-_K-_KS0892_DS0",
+        "latex": "{\\cal{B}} ( B^{-} \\to D^{*}(2007)^{0} K^{-} K^{*}(892)^{0} )",
+        "category": "Bu/D",
+        "average": 0.015300000000000001,
+        "error": 0.004244997055358225,
+        "measurements": [
+            {
+                "value": 0.015300000000000001,
+                "error": 0.005141011573610781
+            }
+        ]
+    },
+    {
+        "name": "BR_B-_DS0bar_K-_D0",
+        "latex": "{\\cal{B}} ( B^{-} \\to D^{0} \\bar{D}^{*}(2007)^{0} K^{-} )",
+        "category": "Bu/DD",
+        "average": 0.0632,
+        "error": 0.004884669896727926,
+        "measurements": [
+            {
+                "value": 0.0632,
+                "error": 0.006641535966928133
+            }
+        ]
+    },
+    {
+        "name": "BR_B-_KS-_chi1c",
+        "latex": "{\\cal{B}} ( B^{-} \\to \\chi_{c1} K^{*}(892)^{-} )",
+        "category": "Bu/cc",
+        "average": 0.002982016822978241,
+        "error": 0.000509017592555805,
+        "measurements": [
+            {
+                "value": 0.0040999999999999995,
+                "error": 0.001407124727947029
+            },
+            {
+                "value": 0.0026000000000000003,
+                "error": 0.000754983443527075
+            },
+            {
+                "value": 0.00294,
+                "error": 0.0016517869111964776
+            }
+        ]
+    },
+    {
+        "name": "BR_B-_Lambdac-_K-_Lambdac+",
+        "latex": "{\\cal{B}} ( B^{-} \\to \\Lambda_c^{+} \\Lambda_c^{-} K^{-} )",
+        "category": "Bu/baryon",
+        "average": 0.004947539597074872,
+        "error": 0.0007192052701662079,
+        "measurements": [
+            {
+                "value": 0.006500000000000001,
+                "error": 0.005142461928020372
+            },
+            {
+                "value": 0.0048,
+                "error": 0.0009512623192369179
+            },
+            {
+                "value": 0.011399999999999999,
+                "error": 0.008945948803788227
+            }
+        ]
+    },
+    {
+        "name": "BR_B-_K-_X4140.BR_X4140_phi_Jpsi.-BR_B-_K-_phi_Jpsi",
+        "latex": "\\frac{{\\cal{B}} ( B^{-} \\to X(4140) K^{-} ) \\times {\\cal{B}} ( X(4140) \\to J/\\psi \\phi(1020) )}{{\\cal{B}} ( B^{-} \\to J/\\psi \\phi(1020) K^{-} )}",
+        "category": "Bu/other",
+        "average": 0.13565494103468878,
+        "error": 0.04977244958429012,
+        "measurements": [
+            {
+                "value": 0.13,
+                "error": 0.058239112787078606
+            },
+            {
+                "value": 2.1,
+                "error": 0.9797958971132713
+            }
+        ]
+    }
+]
